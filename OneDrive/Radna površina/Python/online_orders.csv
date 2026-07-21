@@ -1,0 +1,101 @@
+order_id,product_category,order_status,payment_method,order_amount,customer_id,shipping_cost
+1001,Beauty,Returned,Gift Card,20.05,37393,23.17
+1002,Sports,Delivered,PayPal,247.97,63396,29.15
+1003,Home & Kitchen,Shipped,PayPal,173.34,25042,37.41
+1004,Beauty,Delivered,Gift Card,427.17,13064,14.84
+1005,Sports,Returned,Debit Card,253.85,70720,42.44
+1006,Electronics,Pending,PayPal,189.69,71030,4.78
+1007,Toys,Delivered,PayPal,155.06,19509,2.01
+1008,Clothing,Returned,Debit Card,218.02,12525,26.96
+1009,Beauty,Pending,Debit Card,110.87,95995,43.67
+1010,Books,Returned,Gift Card,216.77,87673,33.57
+1011,Books,Returned,Debit Card,478.43,41010,23.6
+1012,Electronics,Returned,PayPal,283.11,17976,47.25
+1013,Home & Kitchen,Canceled,Debit Card,127.18,44443,27.44
+1014,Toys,Canceled,PayPal,404.82,68221,45.81
+1015,Beauty,Canceled,Gift Card,241.09,10484,29.04
+1016,Toys,Canceled,PayPal,463.93,57126,17.47
+1017,Beauty,Delivered,PayPal,238.9,48567,10.86
+1018,Home & Kitchen,Pending,Credit Card,213.06,91227,45.73
+1019,Books,Returned,PayPal,324.18,45652,24.45
+1020,Books,Returned,Credit Card,434.49,32627,37.57
+1021,Home & Kitchen,Pending,Credit Card,342.97,55559,29.14
+1022,Beauty,Delivered,PayPal,318.79,85416,49.79
+1023,Automotive,Shipped,Gift Card,339.67,19768,3.87
+1024,Automotive,Shipped,PayPal,188.85,83886,20.42
+1025,Electronics,Shipped,Gift Card,43.56,90921,1.44
+1026,Clothing,Delivered,Debit Card,343.34,80041,47.72
+1027,Books,Returned,Credit Card,307.05,15136,49.86
+1028,Beauty,Pending,Credit Card,377.95,86823,9.12
+1029,Books,Pending,Credit Card,372.15,19093,30.43
+1030,Books,Canceled,PayPal,302.83,64516,16.23
+1031,Electronics,Shipped,Credit Card,143.08,57224,36.34
+1032,Electronics,Pending,Debit Card,67.92,89148,21.5
+1033,Electronics,Delivered,Gift Card,423.77,65906,38.78
+1034,Home & Kitchen,Pending,Gift Card,135.5,27936,39.03
+1035,Beauty,Pending,PayPal,420.51,39638,10.07
+1036,Automotive,Delivered,PayPal,149.58,30920,44.3
+1037,Electronics,Returned,Gift Card,147.78,99206,15.65
+1038,Sports,Canceled,Debit Card,490.63,39344,5
+1039,Automotive,Delivered,Credit Card,35.37,77377,23.81
+1040,Electronics,Returned,Gift Card,393.22,89587,16.23
+1041,Books,Canceled,Gift Card,110.32,89379,27.78
+1042,Beauty,Returned,PayPal,426.12,53287,18.14
+1043,Electronics,Delivered,PayPal,481.8,73485,14.19
+1044,Automotive,Shipped,PayPal,327.57,17810,8.33
+1045,Beauty,Pending,Credit Card,197.56,16094,13.74
+1046,Toys,Delivered,Gift Card,264.97,42428,38.59
+1047,Sports,Delivered,Debit Card,315.41,35252,13.6
+1048,Books,Shipped,PayPal,121.23,14631,34.4
+1049,Beauty,Shipped,PayPal,279.41,92200,11.4
+1050,Automotive,Canceled,Gift Card,273.97,43086,27.96
+1051,Books,Canceled,PayPal,55.14,56366,2.5
+1052,Home & Kitchen,Canceled,Debit Card,310.22,32758,19.68
+1053,Automotive,Returned,Debit Card,192.28,41512,14.61
+1054,Sports,Delivered,PayPal,275.62,12247,3.64
+1055,Automotive,Returned,Debit Card,489.21,69634,25.53
+1056,Automotive,Canceled,Gift Card,275.68,65582,30.11
+1057,Sports,Returned,PayPal,358.79,40661,25.37
+1058,Sports,Returned,PayPal,229.29,49550,34.29
+1059,Beauty,Canceled,Gift Card,127.33,20732,17.47
+1060,Sports,Canceled,Gift Card,270.51,25478,40.37
+1061,Beauty,Canceled,Debit Card,305.71,85333,29.8
+1062,Books,Pending,Credit Card,250.28,17400,11.25
+1063,Sports,Delivered,Debit Card,248.81,44250,13.28
+1064,Clothing,Canceled,Gift Card,358.36,47885,19.73
+1065,Books,Pending,PayPal,261.77,42569,14.21
+1066,Books,Canceled,Credit Card,257.73,35674,7.36
+1067,Books,Returned,PayPal,152.25,78141,40.94
+1068,Sports,Delivered,Gift Card,111.43,66429,12.58
+1069,Automotive,Delivered,Credit Card,71.13,83277,21.03
+1070,Beauty,Pending,Gift Card,24.33,91407,9.9
+1071,Automotive,Delivered,Gift Card,291.59,12953,25.56
+1072,Books,Shipped,Credit Card,94.92,33851,28.97
+1073,Toys,Shipped,Debit Card,222.56,96019,5.75
+1074,Electronics,Pending,Debit Card,496.9,95719,34.16
+1075,Electronics,Returned,Debit Card,216.18,93466,15.37
+1076,Electronics,Shipped,Debit Card,233.85,51648,10.5
+1077,Sports,Shipped,Debit Card,91.29,51094,47.7
+1078,Books,Returned,PayPal,414.48,80943,12.21
+1079,Clothing,Shipped,PayPal,433.14,13105,48.15
+1080,Beauty,Returned,Credit Card,69.69,69615,26.86
+1081,Sports,Shipped,Debit Card,323.09,57719,22.92
+1082,Books,Canceled,Debit Card,443.36,50702,19.02
+1083,Electronics,Delivered,Gift Card,146.36,76570,37.56
+1084,Books,Delivered,Debit Card,32.24,99515,37.65
+1085,Clothing,Shipped,Credit Card,345.85,71723,8.07
+1086,Clothing,Returned,Debit Card,335.41,29093,15.42
+1087,Home & Kitchen,Canceled,Credit Card,193.18,74653,14.3
+1088,Sports,Delivered,Gift Card,239.52,31515,16.76
+1089,Automotive,Pending,Gift Card,457.66,80548,8.32
+1090,Automotive,Pending,PayPal,352.83,83862,18.4
+1091,Toys,Returned,Credit Card,96.75,71821,7.33
+1092,Toys,Pending,PayPal,459.61,33401,33.53
+1093,Electronics,Canceled,Debit Card,299.06,80829,1.69
+1094,Sports,Pending,Debit Card,174.28,52598,32.4
+1095,Books,Pending,Gift Card,171.97,46470,37.97
+1096,Toys,Pending,PayPal,319.17,96017,47.04
+1097,Books,Pending,Gift Card,216.38,98844,46.06
+1098,Toys,Pending,Gift Card,132.14,50419,15.52
+1099,Electronics,Delivered,Credit Card,138.08,95569,38.81
+1100,Sports,Canceled,PayPal,273.88,70272,18.16
